@@ -12,3 +12,4 @@
 * **Text Normalization:** Applied lowercasing to reduce the dimensionality of the vector space model (ensuring words like "Book" and "book" are treated identically).
 * **Stemming vs. Lemmatization:** Experimented with reducing words to their root forms. I compared the PorterStemmer (older, faster) with the SnowballStemmer (better accuracy) in NLTK. I then applied Lemmatization, which unlike stemming, brings context to the words and links them based on part-of-speech (POS) tags to form meaningful root words.
 * **Stop Words Optimization:** Analyzed the impact of removing low-level information (like "the", "a", "an") to reduce dataset size and training time. I also customized the stop words list by dynamically adding and removing specific tokens based on the context of the task.
+
