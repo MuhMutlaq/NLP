@@ -2,7 +2,7 @@
 
 ## Student Information
 
-**Name:** Muhannad Almutlaq
+**Name:** Muhannad Almutlaq  
 **ID:** 2240006060
 
 ### Experimentation & Key Takeaways
